@@ -1,0 +1,11 @@
+python-portable/
+python-portable.zip
+get-pip.py
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
